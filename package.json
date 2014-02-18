@@ -14,6 +14,7 @@
     "localize",
     "month",
     "weekday",
+    "day",
     "names",
     "i18n",
     "l10n"

@@ -1,6 +1,6 @@
 # date-names
 
-Repository of localized month and weekday names.
+Repository of localized month and day names. Usable in Node.js or in the browser.
 
 
 ## Installation
@@ -13,7 +13,7 @@ Install via npm:
 
 ## Usage
 
-The default locale is `en` (English). Thus, `require('date-names')` implicitly does `require('date-names/en')`.
+The default locale is `en` (English). Thus, a `require('date-names')` implicitly does `require('date-names/en')`.
 
 ```js
 var names = require('date-names');
@@ -43,7 +43,7 @@ names.am                  // => 'vormittags'
 names.pm                  // => 'nachmittags'
 ```
 
-English (en) and German (de) are currently the only supported locales. Pull requests welcome.
+English ([en](en.js)) and German ([de](de.js)) are currently the only supported locales. Pull requests welcome.
 
 
 ## Contributing
