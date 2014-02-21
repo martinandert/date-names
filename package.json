@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/martinandert/date-names"
+    "url": "https://github.com/martinandert/date-names.git"
   },
   "keywords": [
     "localization",
