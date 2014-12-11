@@ -30,8 +30,6 @@
   "homepage": "https://github.com/martinandert/date-names",
   "devDependencies": {
     "jshint": "^2.5.10",
-    "mocha": "^2.0.1",
-    "node-dev": "^2.6.0",
-    "semver": "^4.1.0"
+    "mocha": "^2.0.1"
   }
 }
