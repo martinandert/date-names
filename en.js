@@ -1,3 +1,5 @@
+"use strict";
+
 module.exports = {
   __locale: "en",
   days: ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'],
