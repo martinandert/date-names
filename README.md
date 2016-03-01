@@ -43,7 +43,7 @@ names.am                  // => 'vormittags'
 names.pm                  // => 'nachmittags'
 ```
 
-English ([en](en.js)), German ([de](de.js)) and Finnish ([fi](fi.js)) are currently the only supported locales. Pull requests welcome.
+English ([en](en.js)), German ([de](de.js)), Finnish ([fi](fi.js)) and Brazilian Portuguese([pt-br](pt-br.js)) are currently the only supported locales. Pull requests welcome.
 
 
 ## Contributing

@@ -4,6 +4,7 @@ var hasKey  = Object.prototype.hasOwnProperty;
 testLocale('en');
 testLocale('de');
 testLocale('fi');
+testLocale('pt-br');
 
 function testLocale(locale, path, name) {
   path = path || ('./' + locale);
@@ -66,4 +67,3 @@ function testLocale(locale, path, name) {
 }
 
 testLocale('en', './', 'the package main');
-

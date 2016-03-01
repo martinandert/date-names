@@ -4,7 +4,7 @@ test: lint
 	@$(BIN)/mocha -t 5000 -b -R spec spec.js
 
 lint:
-	@$(BIN)/jshint index.js en.js de.js
+	@$(BIN)/jshint index.js en.js de.js pt-br.js
 
 install:
 	npm install
