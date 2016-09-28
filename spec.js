@@ -5,6 +5,7 @@ testLocale('en');
 testLocale('de');
 testLocale('fi');
 testLocale('pt-br');
+testLocale('ru');
 
 function testLocale(locale, path, name) {
   path = path || ('./' + locale);
