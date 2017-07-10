@@ -2,6 +2,7 @@ var assert  = require('assert');
 var hasKey  = Object.prototype.hasOwnProperty;
 
 testLocale('en');
+testLocale('da');
 testLocale('de');
 testLocale('fi');
 testLocale('pt-br');
