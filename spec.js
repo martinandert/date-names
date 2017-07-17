@@ -4,6 +4,7 @@ var hasKey  = Object.prototype.hasOwnProperty;
 testLocale('en');
 testLocale('de');
 testLocale('fi');
+testLocale('fr');
 testLocale('pt-br');
 testLocale('ru');
 testLocale('es');
