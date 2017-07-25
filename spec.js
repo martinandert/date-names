@@ -1,15 +1,15 @@
 var assert  = require('assert');
 var hasKey  = Object.prototype.hasOwnProperty;
 
-testLocale('en');
+testLocale('cs');
 testLocale('da');
 testLocale('de');
+testLocale('en');
+testLocale('es');
 testLocale('fi');
 testLocale('fr');
 testLocale('pt-br');
 testLocale('ru');
-testLocale('es');
-testLocale('cs');
 testLocale('sk');
 
 function testLocale(locale, path, name) {
