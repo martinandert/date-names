@@ -5,6 +5,7 @@ testLocale('en');
 testLocale('da');
 testLocale('de');
 testLocale('fi');
+testLocale('fr');
 testLocale('pt-br');
 testLocale('ru');
 testLocale('es');
