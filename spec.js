@@ -8,6 +8,7 @@ testLocale('en');
 testLocale('es');
 testLocale('fi');
 testLocale('fr');
+testLocale('nl');
 testLocale('pt-br');
 testLocale('ru');
 testLocale('sk');
