@@ -1,6 +1,6 @@
 {
   "name": "date-names",
-  "version": "0.1.12",
+  "version": "0.1.13",
   "description": "Repository of localized month and day names",
   "main": "index.js",
   "repository": {
